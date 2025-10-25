@@ -1,0 +1,15 @@
+data types
+    1. primitives -> aisi saari values jinko copy karne par tumhe ek real copy mil jaaye
+    
+    string, number, boolean, null, undefined, symbol, bigint
+
+    2. reference -> inko copy karne par real copy nahi milegi but aapko reference milega parent ka
+    
+    arrays, objects, functions
+    [] {} ()
+
+'' - single quotes
+"" - double quotes
+`` - backticks
+
+Number.MAX_SAFE_INTEGER => to check safe integer value
